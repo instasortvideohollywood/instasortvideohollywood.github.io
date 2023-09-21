@@ -1,4 +1,4 @@
-<h2>felicia agattha aka feliciaagattha photo gallery</h2><br />
+<h2>felicia agatha aka feliciaagattha photo gallery</h2><br />
   <div style="padding:2%; width:100%;">
 <style type="text/css">
 .bcd140526_post_feed li.item {
