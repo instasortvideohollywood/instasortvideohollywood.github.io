@@ -1,4 +1,4 @@
-<h2>felicia agatha aka feliciaagatha photo gallery</h2><br />
+<h2>felicia agattha aka feliciaagattha photo gallery</h2><br />
   <div style="padding:2%; width:100%;">
 <style type="text/css">
 .bcd140526_post_feed li.item {
@@ -97,7 +97,7 @@ var bcd140526_snippet_length = 0;/*bcd140526_snippet_length*/
 var bcd140526_post_count = 150;/*bcd140526_post_count*/
 var bcd140526_thumbnail_size = 100;// v1.5, only effect with list style/*bcd140526_thumbnail_size*/
 var bcd140526_sort_by = 'random'; // latest or random/*bcd140526_sort_by*/
-var bcd140526_index_label = 'feliciaagatha';/*bcd140526_index_label*/
+var bcd140526_index_label = 'feliciaagattha';/*bcd140526_index_label*/
 var bcd140526_design_style = 'column';// list or column/*bcd140526_design_style*/
 var bcd140526_date_format = 'mm/dd/yyyy';/*bcd140526_date_format*/
 var lang_readmore = 'Readmore';/*lang_readmore*/
